@@ -1,5 +1,5 @@
 /* 1. FONTS & SYSTEM CORE IMPORTS */
-@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
 
 /* --- Core Logic --- */
 @import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/variables.css");
@@ -30,5 +30,5 @@
 @import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/modules/mentions.css");
 @import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/modules/extras.css");
 @import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/modules/notifications.css");
-@import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/modules/user_panel_version.css"); */
+@import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/modules/user_panel_version.css"); 
 /* @import url("https://ungiglio.github.io/DiscordDiscordia/awkglass/core/modules/horizontal_server_list.css"); */
